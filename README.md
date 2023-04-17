@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Gupta</h1>
-<h3 align="center">Computer Science Student</h3>
+<div align="center"> <img src="https://github.com/cyber-vg/cyber-vg/blob/6171801f6e3887b2952a5ad749e2cc596e2fa3ee/github-header-image.png" alt="cyber-vg" /> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-vg&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-vg" /> </p>
 
